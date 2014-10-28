@@ -114,6 +114,12 @@
             "img" : "https://avatars0.githubusercontent.com/u/364246?v=2&s=460",
             "description" : "Tiffany is a self-taught JavaScript programmer trained as an electrically engineer. Front-end developer and interaction designer, mostly. “theophani” on Github, Twitter, Flickr, SoundCloud … and everywhere else. JSConf EU co-curator, weareaweso.me creator, BerlinJS co-organizer."
         },
+        "johannesorgis" : {
+            "name" : "Johannes Orgis",
+            "plus_id" : "",
+            "img" : "",
+            "description" : ""
+        },
         "leehambley" : {
             "name" : "Lee Hambley",
             "plus_id" : "+LeeHambley",
@@ -450,7 +456,7 @@
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						"dannypreussler"
+						"dannypreussler","johannesorgis"
 					]
 				},
 				{
@@ -462,7 +468,7 @@
 					"track" : "Android",
                     "youtube_id":"",
 					"speaker_ids" : [
-                        "matthiasfriedrich", "melindaalbert", "sebatianopoggi", "danielebonaldo", "dannypreussler"
+                        "matthiasfriedrich", "melindaalbert", "sebatianopoggi", "danielebonaldo", "dannypreussler", "johannesorgis"
 					]
 				},
 				{
