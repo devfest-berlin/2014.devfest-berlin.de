@@ -102,12 +102,6 @@
             "img" : "https://lh6.googleusercontent.com/-lRS0HiJQ2cA/UrP9HfZrBuI/AAAAAAAAJn4/-nUPbl1pG_k/s414-no/IMAG1879.jpg",
             "description" : "Danny is in charge of Android development at Groupon in Berlin. Before that he worked for companies like eBay and Alcatel. Danny writes and talks about android development or testing regularly."  
         },
-        "heikemeyburgh" : {
-            "name" : "Heike Meyburgh",
-            "plus_id" : "+HeikeMeyburgh",
-            "img" : "https://lh6.googleusercontent.com/-gymPtHKrfP8/T4_XFAAo-NI/AAAAAAAAARE/SKAXiIASi_g/s393-no/Photo%2Bon%2B2011-11-04%2Bat%2B16.35%2B%232.jpg",
-            "description" : "When she’s not training to become a Yoga Instructor or trying to become the female Bear Grylls, Heike Meyburgh works as an Executive Producer at Stinkdigital. After graduating in South Africa and before joining Stinkdigital, Heike worked at several agencies engaging with big brands such as Nike, Cell C and RedBull. Heike’s currently based in Berlin and is sinking her teeth into the new market."
-        },
         "tiffanyconroy" : {
             "name" : "Tiffany Conroy",
             "plus_id" : "",
@@ -488,15 +482,15 @@
 				{
 					"time_start" : "11:00:00",
 					"time_end" : "11:45:00",
-					"title" : "Using Prototypes to Break New Ground",
-					"desc" : "Technology is continuing to shape the way we communicate. As new platforms and devices are introduced, and technology continues to accelerate, we can no longer take it for granted that there is a definitive answer to a production challenge: what is true today may not be true tomorrow.",
-                    "level": "101",
+					"title" : "(tba)",
+					"desc" : "",
+                    "level": "",
 					"room_id" : "casino",
 					"track" : "Web",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						"heikemeyburgh"
+						
 					]
 				},
 				{
