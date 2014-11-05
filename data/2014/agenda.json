@@ -253,7 +253,7 @@
                 {
                     "time_start" : "15:00:00",
                     "time_end" : "15:30:00",
-                    "title" : "Syntax Speedrun I",
+                    "title" : "Go: Syntax Speedrun I",
                     "desc" : "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program.",
                     "level": "101",
                     "room_id" : "konfi45",
@@ -266,7 +266,7 @@
                 {
                     "time_start" : "15:45:00",
                     "time_end" : "16:15:00",
-                    "title" : "Syntax Speedrun II",
+                    "title" : "Go: Syntax Speedrun II",
                     "desc" : "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program.",
                     "level": "101",
                     "room_id" : "konfi45",
@@ -279,7 +279,7 @@
                 {
                     "time_start" : "16:30:00",
                     "time_end" : "17:30:00",
-                    "title" : "Write all the Pixels",
+                    "title" : "Go: Write all the Pixels",
                     "desc" : "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program.",
                     "level": "101",
                     "room_id" : "konfi45",
@@ -292,7 +292,7 @@
                 {
                     "time_start" : "17:30:00",
                     "time_end" : "18:30:00",
-                    "title" : "Write all the Pixels",
+                    "title" : "Go: Write all the Pixels",
                     "desc" : "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program.",
                     "level": "101",
                     "room_id" : "konfi45",
