@@ -125,32 +125,6 @@
             "plus_id" : "+BenjaminWeiss",
             "img" : "https://lh5.googleusercontent.com/-b8Oxh-bDUMI/AAAAAAAAAAI/AAAAAAAA0zc/Aacft0Pu38U/s120-c/photo.jpg",
             "description" : "Benjamin is a Developer Programs Engineer at Google in London<br/>Shortly after moving to Berlin he started organizing the local Android community.<br/>He has been involved with several conferences as co-organizer and speaker.<br/>During his day jobs he developed Android apps for various companies and organizations.<br/>Further Benjamin is the developer and maintainer of the Crouton library for Android."
-        },
-        "astridparamitamochtarram" : {
-            "name" : "Astrid Paramita Mochtarram",
-            "plus_id" : "+AstridParamita",
-            "img" : "http://astridparamita.com/images/astrid.jpg",
-            "description" : "Founder and CEO at twindly (http://twindly.com). M.Sc. in Digital Media, B.Eng in Informatics. AI/Recommender enthusiast, UX/UI designer. Traveller, storyteller, beauty addict, and food connoisseur."
-        },
-        "anitajaszewska" : {
-            "name" : "Anita Jaszewska",
-            "plus_id" : "+AnitaJaszewska",
-            "img" : "https://lh6.googleusercontent.com/-yMqkzs7F5yA/AAAAAAAAAAI/AAAAAAAAAdc/VyYRwQz19ko/s120-c/photo.jpg",
-            "description" : "I'm Ruby on rails Developer, interested in Internet of Things and travelling.
-
-I learned how to program from scratch by myself and decided that this is the career for me."
-        },
-        "andreasschranzhofer" : {
-            "name" : "Andreas Schranzhofer",
-            "plus_id" : "116039105827618342522",
-            "img" : "https://lh6.googleusercontent.com/-qDz0cw2gZeE/AAAAAAAAAAI/AAAAAAAAABo/kcjgT_0pBQ8/s120-c/photo.jpg",
-            "description" : "Andreas Schranzhofer is the Head of Mobile Engineering at GetYourGuide Deutschland GmbH. In this position, he is responsible for all mobile apps and appendant technologies. His focus is on creating lean, cross-platform architectures, that enable products to focus on the user experiences."
-        },
-        "christianbromann" : {
-            "name" : "Christian Bromann",
-            "plus_id" : "+ChristianBromann",
-            "img" : "https://lh6.googleusercontent.com/-R7SieLBE1c0/AAAAAAAAAAI/AAAAAAAAAb4/WirDDg4FsjU/s120-c/photo.jpg",
-            "description" : "We all know how sometimes frustrating it is when changing a small piece of CSS and accidentally creating visual bugs on one or more parts of our web application. There are several approaches to prevent this starting from writing highly modularised object orientated CSS (OOCSS) to running visual regression tests. In my presentation I would talk about how to write these visual regression tests and how to run them in a scaleable cloud environment using Sauce Labs and Applitools."
         }
 	},
 	"days" : {
@@ -514,15 +488,15 @@ I learned how to program from scratch by myself and decided that this is the car
 				{
 					"time_start" : "11:00:00",
 					"time_end" : "11:45:00",
-					"title" : "Introduction into Polymer",
-					"desc" : "A frame work for web applications based on web components made by Google.",
-                    "level": "101",
+					"title" : "(tba)",
+					"desc" : "",
+                    "level": "",
 					"room_id" : "casino",
 					"track" : "Web",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						"janphilippheinrich"
+						
 					]
 				},
 				{
@@ -542,54 +516,43 @@ I learned how to program from scratch by myself and decided that this is the car
 				{
 					"time_start" : "14:00:00",
 					"time_end" : "14:45:00",
-					"title" : "Using Padrino - introduction - 101",
-					"desc" : "Everyone who is into web development knows Rails. It is indeed powerful framework based on Ruby, but what about people who need to build something small and quick? Padrino might be the answer.",
+					"title" : "(tba)",
+					"desc" : "",
+                    "level": "",
+					"room_id" : "casino",
+					"track" : "Web",
+                    "youtube_id": "",
+                    "slide":"",
+					"speaker_ids" : [
+
+					]
+				},
+				{
+					"time_start" : "15:00:00",
+					"time_end" : "15:45:00",
+					"title" : "(tba)",
+					"desc" : "",
+                    "level": "",
+					"room_id" : "casino",
+					"track" : "Web",
+                    "youtube_id": "",
+                    "slide":"",
+					"speaker_ids" : [
+
+					]
+				},
+				{
+					"time_start" : "16:30:00",
+					"time_end" : "17:15:00",
+					"title" : "Introduction into Polymer",
+					"desc" : "A frame work for web applications based on web components made by Google.",
                     "level": "101",
 					"room_id" : "casino",
 					"track" : "Web",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						"anitajaszewska"
-					]
-				},
-				{
-					"time_start" : "15:00:00",
-					"time_end" : "15:45:00",
-					"title" : "App Indexing for Google Search",
-					"desc" : "At GetYourGuide we went live with the App-Indexing just a few weeks ago. We support deeplinking of almost all webcontent into the app. 
-In order to be able to do that, we implemented a sophisticated deeplinking scheme. This scheme can accept any kind of query that we could also trigger through our API. 
-
-As a result, it is very straightforward to automatically create the Andrdoid (and iOS) deeplink for any content on our webpage. 
-
-Our talk would start with how this deeplinking was set up and how it connects to web content. Since Google is very picky that App-Indexes provide exactly the same content as the corresponding Webpage, it is very important to have this mapping set up correctly. 
-
-Since this went live we also had to add support for the Google Crawler, both on the API but also in the App. We were not really aware of that and got our tracking skewed (ie., most of our traffic was from Mountain View for a while). 
-The second part of the talk would be about how handle these things. How to identify legit traffic and ignore crawler traffic in your tracking. This is particularly important for eCommerce companies like ourselves. 
-",
-                    "level": "201",
-					"room_id" : "casino",
-					"track" : "Web",
-                    "youtube_id": "",
-                    "slide":"",
-					"speaker_ids" : [
-						"andreasschranzhofer"
-					]
-				},
-				{
-					"time_start" : "16:30:00",
-					"time_end" : "17:15:00",
-					"title" : "Visual Regression Testing",
-					"desc" : "CSS can often be really frustrating when changing small parts create unwanted changes in several areas of our web application. There are several approaches to prevent this. One is writing highly modularised and object orientated CSS (also known as OOCSS). But often we don't work in a perfect world like this. Therefor more and more people getting interested in Visual Regression Tests. By taking and comparing screenshots of our web app on regularly basis we have the chance to catch every visual bug that occurs. These tests require an highly automated process to be able to deploy it in our continuos integration circle. Tools like PhantomCSS or WebdriverCSS made this more and more easy to do with less flakiness and frustration.
-
-This talk will give you insights about how to write visual regression tests with WebdriverCSS in an scaleable cloud environment using Sauce Labs and Applitools. It will point out some best practices and will demonstrate how to integrate it in your CI process.",
-                    "level": "201",
-					"room_id" : "casino",
-					"track" : "Web",
-                    "youtube_id": "",
-                    "slide":"",
-					"speaker_ids" : [
-						"christianbromann"
+						"janphilippheinrich"
 					]
 				},
 				{
@@ -601,30 +564,12 @@ This talk will give you insights about how to write visual regression tests with
 					"track" : "Web",
                     "youtube_id": "",
 					"speaker_ids" : [
-                        "janmonschke", "tiffanyconroy", "janphilippheinrich", "anitajaszewska", "andreasschranzhofer", "christianbromann"
+                        "janmonschke", "tiffanyconroy", "janphilippheinrich"
 					]
 				},
 				{
 					"time_start" : "10:00:00",
 					"time_end" : "10:45:00",
-					"title" : "Using Google Cloud Infrastructure for twindly: A Social Recommender Platform",
-					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it. What are the moving parts we get to play around with:<br/>- Hosting + compute: App Engine and Compute Engine
-- Storage: Cloud Datastore
-- Big Data: BigQuery
-- Prediction API
-Most importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
-                    "level": "101",
-					"room_id" : "casino",
-					"track" : "Cloud",
-                    "youtube_id": "",
-                    "slide":"",
-					"speaker_ids" : [
-						"astridparamitamochtarram"
-					]
-				},
-				{
-					"time_start" : "11:00:00",
-					"time_end" : "11:45:00",
 					"title" : "Something, something, Go!",
 					"desc" : "",
                     "level": "101",
@@ -637,8 +582,8 @@ Most importantly, lessons learned during the process of learning and breaking th
 					]
 				},
 				{
-					"time_start" : "12:00:00",
-					"time_end" : "12:45:00",
+					"time_start" : "11:00:00",
+					"time_end" : "11:45:00",
 					"title" : "Containers and Kubernetes",
 					"desc" : "In this session I will go over the history of containers at Google, what we have done internally, how containers differ from VM and what they are good for and what Kubernetes is. I will then show a quick demo of how to bring up a Kubernetes cluster on the Google Cloud Platform and how to deploy a simple service. I will also show the self healing mechanisms of Kubernetes.",
                     "level": "201",
@@ -651,8 +596,8 @@ Most importantly, lessons learned during the process of learning and breaking th
 					]
 				},
 				{
-					"time_start" : "14:00:00",
-					"time_end" : "14:45:00",
+					"time_start" : "12:00:00",
+					"time_end" : "12:45:00",
 					"title" : "Transactional HTTP Tests With Go’s Standard Library",
 					"desc" : "",
                     "level": "201",
@@ -662,6 +607,20 @@ Most importantly, lessons learned during the process of learning and breaking th
                     "slide":"",
 					"speaker_ids" : [
 						"leehambley"
+					]
+				},
+				{
+					"time_start" : "14:00:00",
+					"time_end" : "14:45:00",
+					"title" : "(tba)",
+					"desc" : "",
+                    "level": "",
+					"room_id" : "konfi45",
+					"track" : "Cloud",
+                    "youtube_id": "",
+                    "slide":"",
+					"speaker_ids" : [
+						
 					]
 				},
 				{
@@ -699,7 +658,7 @@ Most importantly, lessons learned during the process of learning and breaking th
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
-					    "jenskuehlers", "alexandersurma","leehambley","astridparamitamochtarram"
+					    "jenskuehlers", "alexandersurma","leehambley"
 					]
 				},
                 {
