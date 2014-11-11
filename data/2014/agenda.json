@@ -119,6 +119,12 @@
             "plus_id" : "+LeeHambley",
             "img" : "https://lh3.googleusercontent.com/-dxGyDhdrl9U/UPlRy7RQGZI/AAAAAAAAAnU/H7MXA1uCDKY/w301-h300-no/me.png",
             "description" : "I’m the founder of a successful consultancy company personally offering extensive experience with Ruby, PHP, Lua, and SQL (MySQL and PostgreSQL). Sometimes I work with JavaScript, C or Objective-C. I contribute heavily to open source. I’ve maintained Capistrano for the last few years; it’s the de-facto standard for deploying Ruby or Rails applications. I’m working hard with a couple of awesome people at making it work well for other projects too, you can watch us work."
+        },
+        "benjaminweiss" : {
+            "name" : "Benjamin Weiss",
+            "plus_id" : "+BenjaminWeiss",
+            "img" : "https://lh5.googleusercontent.com/-b8Oxh-bDUMI/AAAAAAAAAAI/AAAAAAAA0zc/Aacft0Pu38U/s120-c/photo.jpg",
+            "description" : "Benjamin is a Developer Programs Engineer at Google in London<br/>Shortly after moving to Berlin he started organizing the local Android community.<br/>He has been involved with several conferences as co-organizer and speaker.<br/>During his day jobs he developed Android apps for various companies and organizations.<br/>Further Benjamin is the developer and maintainer of the Crouton library for Android."
         }
 	},
 	"days" : {
@@ -350,15 +356,15 @@
 				{
 					"time_start" : "10:00:00",
 					"time_end" : "10:45:00",
-					"title" : "Android as it gets worn",
-					"desc" : "One of Androids new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full fledged applications on your its small screens, that don't suck. These applications are highly depended on new APIs for inter device communication and some new ui widgets. This talk wants to give a introduction to Android Wear, its special APIs, features and latest developments.",
+					"title" : "What's new in Android",
+					"desc" : "Android 5.0 aka Lollipop has been released. This session will give an overview of the technologies and APIs included in this release.",
                     "level": "101",
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
                     "slide": "",
 					"speaker_ids" : [
-						"matthiasfriedrich"
+						"benjaminweiss"
 					]
 				},
 				{
@@ -378,15 +384,15 @@
 				{
 					"time_start" : "12:00:00",
 					"time_end" : "12:45:00",
-					"title" : "Framing the Canvas",
-					"desc" : "This talk will guide you through a topic that is often ignored: the Canvas API. Even if there's only scarce documentation for it, the Canvas API is at the heart of everything that shows a UI on Android. You'll need to tame this powerful and mysterious creature if you want to create great custom views and brilliant, lightweight UIs for your apps. What is a Canvas? How do you Paint? Can you draw Paths? What is Skia, and who invited it anyway? What actualy happens during a drawing pass? What are Shaders? What are Filters? Is it true that text is basically impossible to measure correctly? What shape does a Shape have if noone's painting it? These and other questions will get an answer during this session. Well, some of them will not, probably. Connect the dots in the spotty documentation the Android team has assembled, and become a true pixel pusher!",
-                    "level": "201",
+					"title" : "Android as it gets worn",
+					"desc" : "One of Androids new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full fledged applications on your its small screens, that don't suck. These applications are highly depended on new APIs for inter device communication and some new ui widgets. This talk wants to give a introduction to Android Wear, its special APIs, features and latest developments.",
+                    "level": "101",
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide": "",
 					"speaker_ids" : [
-						"sebatianopoggi"
+						"matthiasfriedrich"
 					]
 				},
 				{
@@ -417,15 +423,15 @@
 				{
 					"time_start" : "15:00:00",
 					"time_end" : "15:45:00",
-					"title" : "(tba)",
-					"desc" : "",
-                    "level": "",
+					"title" : "Framing the Canvas",
+					"desc" : "This talk will guide you through a topic that is often ignored: the Canvas API. Even if there's only scarce documentation for it, the Canvas API is at the heart of everything that shows a UI on Android. You'll need to tame this powerful and mysterious creature if you want to create great custom views and brilliant, lightweight UIs for your apps. What is a Canvas? How do you Paint? Can you draw Paths? What is Skia, and who invited it anyway? What actualy happens during a drawing pass? What are Shaders? What are Filters? Is it true that text is basically impossible to measure correctly? What shape does a Shape have if noone's painting it? These and other questions will get an answer during this session. Well, some of them will not, probably. Connect the dots in the spotty documentation the Android team has assembled, and become a true pixel pusher!",
+                    "level": "201",
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide" : "",
+                    "slide":"",
 					"speaker_ids" : [
-						
+						"sebatianopoggi"
 					]
 				},
 				{
@@ -462,7 +468,7 @@
 					"track" : "Android",
                     "youtube_id":"",
 					"speaker_ids" : [
-                        "matthiasfriedrich", "melindaalbert", "sebatianopoggi", "danielebonaldo", "dannypreussler", "johannesorgis"
+                        "matthiasfriedrich", "melindaalbert", "sebatianopoggi", "danielebonaldo", "dannypreussler", "johannesorgis","benjaminweiss"
 					]
 				},
 				{
