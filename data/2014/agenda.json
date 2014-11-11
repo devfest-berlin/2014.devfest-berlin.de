@@ -540,7 +540,7 @@
 				{
 					"time_start" : "14:00:00",
 					"time_end" : "14:45:00",
-					"title" : "Using Padrino - introduction - 101",
+					"title" : "Using Padrino - An introduction into a simple Ruby framework",
 					"desc" : "Everyone who is into web development knows Rails. It is indeed powerful framework based on Ruby, but what about people who need to build something small and quick? Padrino might be the answer.",
                     "level": "101",
 					"room_id" : "casino",
