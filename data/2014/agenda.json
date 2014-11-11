@@ -136,9 +136,7 @@
             "name" : "Anita Jaszewska",
             "plus_id" : "+AnitaJaszewska",
             "img" : "https://lh6.googleusercontent.com/-yMqkzs7F5yA/AAAAAAAAAAI/AAAAAAAAAdc/VyYRwQz19ko/s120-c/photo.jpg",
-            "description" : "I'm Ruby on rails Developer, interested in Internet of Things and travelling.
-
-I learned how to program from scratch by myself and decided that this is the career for me."
+            "description" : "I'm Ruby on rails Developer, interested in Internet of Things and travelling. I learned how to program from scratch by myself and decided that this is the career for me."
         },
         "andreasschranzhofer" : {
             "name" : "Andreas Schranzhofer",
@@ -557,16 +555,7 @@ I learned how to program from scratch by myself and decided that this is the car
 					"time_start" : "15:00:00",
 					"time_end" : "15:45:00",
 					"title" : "App Indexing for Google Search",
-					"desc" : "At GetYourGuide we went live with the App-Indexing just a few weeks ago. We support deeplinking of almost all webcontent into the app. 
-In order to be able to do that, we implemented a sophisticated deeplinking scheme. This scheme can accept any kind of query that we could also trigger through our API. 
-
-As a result, it is very straightforward to automatically create the Andrdoid (and iOS) deeplink for any content on our webpage. 
-
-Our talk would start with how this deeplinking was set up and how it connects to web content. Since Google is very picky that App-Indexes provide exactly the same content as the corresponding Webpage, it is very important to have this mapping set up correctly. 
-
-Since this went live we also had to add support for the Google Crawler, both on the API but also in the App. We were not really aware of that and got our tracking skewed (ie., most of our traffic was from Mountain View for a while). 
-The second part of the talk would be about how handle these things. How to identify legit traffic and ignore crawler traffic in your tracking. This is particularly important for eCommerce companies like ourselves. 
-",
+					"desc" : "At GetYourGuide we went live with the App-Indexing just a few weeks ago. We support deeplinking of almost all webcontent into the app. In order to be able to do that, we implemented a sophisticated deeplinking scheme. This scheme can accept any kind of query that we could also trigger through our API. As a result, it is very straightforward to automatically create the Andrdoid (and iOS) deeplink for any content on our webpage. Our talk would start with how this deeplinking was set up and how it connects to web content. Since Google is very picky that App-Indexes provide exactly the same content as the corresponding Webpage, it is very important to have this mapping set up correctly. Since this went live we also had to add support for the Google Crawler, both on the API but also in the App. We were not really aware of that and got our tracking skewed (ie., most of our traffic was from Mountain View for a while). The second part of the talk would be about how handle these things. How to identify legit traffic and ignore crawler traffic in your tracking. This is particularly important for eCommerce companies like ourselves.",
                     "level": "201",
 					"room_id" : "casino",
 					"track" : "Web",
@@ -580,9 +569,7 @@ The second part of the talk would be about how handle these things. How to ident
 					"time_start" : "16:30:00",
 					"time_end" : "17:15:00",
 					"title" : "Visual Regression Testing",
-					"desc" : "CSS can often be really frustrating when changing small parts create unwanted changes in several areas of our web application. There are several approaches to prevent this. One is writing highly modularised and object orientated CSS (also known as OOCSS). But often we don't work in a perfect world like this. Therefor more and more people getting interested in Visual Regression Tests. By taking and comparing screenshots of our web app on regularly basis we have the chance to catch every visual bug that occurs. These tests require an highly automated process to be able to deploy it in our continuos integration circle. Tools like PhantomCSS or WebdriverCSS made this more and more easy to do with less flakiness and frustration.
-
-This talk will give you insights about how to write visual regression tests with WebdriverCSS in an scaleable cloud environment using Sauce Labs and Applitools. It will point out some best practices and will demonstrate how to integrate it in your CI process.",
+					"desc" : "CSS can often be really frustrating when changing small parts create unwanted changes in several areas of our web application. There are several approaches to prevent this. One is writing highly modularised and object orientated CSS (also known as OOCSS). But often we don't work in a perfect world like this. Therefor more and more people getting interested in Visual Regression Tests. By taking and comparing screenshots of our web app on regularly basis we have the chance to catch every visual bug that occurs. These tests require an highly automated process to be able to deploy it in our continuos integration circle. Tools like PhantomCSS or WebdriverCSS made this more and more easy to do with less flakiness and frustration. This talk will give you insights about how to write visual regression tests with WebdriverCSS in an scaleable cloud environment using Sauce Labs and Applitools. It will point out some best practices and will demonstrate how to integrate it in your CI process.",
                     "level": "201",
 					"room_id" : "casino",
 					"track" : "Web",
@@ -608,11 +595,7 @@ This talk will give you insights about how to write visual regression tests with
 					"time_start" : "10:00:00",
 					"time_end" : "10:45:00",
 					"title" : "Using Google Cloud Infrastructure for twindly: A Social Recommender Platform",
-					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it. What are the moving parts we get to play around with:<br/>- Hosting + compute: App Engine and Compute Engine
-- Storage: Cloud Datastore
-- Big Data: BigQuery
-- Prediction API
-Most importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
+					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it. What are the moving parts we get to play around with:<br/>- Hosting + compute: App Engine and Compute Engine - Storage: Cloud Datastore - Big Data: BigQuery - Prediction API Most importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
                     "level": "101",
 					"room_id" : "casino",
 					"track" : "Cloud",
@@ -654,7 +637,7 @@ Most importantly, lessons learned during the process of learning and breaking th
 					"time_start" : "14:00:00",
 					"time_end" : "14:45:00",
 					"title" : "Transactional HTTP Tests With Go’s Standard Library",
-					"desc" : "",
+					"desc" : "Kitchen-sink frameworks such as Rails include massive amounts of code designed to help with easy out of the box testing through the whole stack. In this talk I’ll discuss the tooling I came up with to emulate the good parts of the Rails database migrations, and transactional tests and fixtures fixtures using some of Go’s excellent standard library.",
                     "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
@@ -699,7 +682,7 @@ Most importantly, lessons learned during the process of learning and breaking th
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
-					    "jenskuehlers", "alexandersurma","leehambley","astridparamitamochtarram"
+					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram"
 					]
 				},
                 {
@@ -715,7 +698,7 @@ Most importantly, lessons learned during the process of learning and breaking th
                 {
                     "time_start" : "19:00:00",
                     "time_end" : "23:59:00",
-                    "title" : "Party @ c-base",
+                    "title" : "After Lounge @ c-base",
                     "desc" : "",
                     "room_id" : "cbase",
                     "speaker_ids" : [
