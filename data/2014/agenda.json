@@ -597,7 +597,7 @@
 					"title" : "Using Google Cloud Infrastructure for twindly: A Social Recommender Platform",
 					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it. What are the moving parts we get to play around with:<br/>- Hosting + compute: App Engine and Compute Engine - Storage: Cloud Datastore - Big Data: BigQuery - Prediction API Most importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
                     "level": "101",
-					"room_id" : "casino",
+					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
                     "slide":"",
