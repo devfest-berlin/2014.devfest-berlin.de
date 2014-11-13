@@ -113,8 +113,10 @@ devfest.service('AgendaService', ['$http', function ($http) {
                     var slots = {};
 
                     angular.forEach(day.slots, function (slot) {
-                        slot.time_start = new Date(day.date + ' ' + slot.time_start);
-                        slot.time_end = new Date(day.date + ' ' + slot.time_end);
+                        dayDate = day.date.replace("-","/").replace("-","/");
+                        slot.time_start = new Date(dayDate + ' ' + slot.time_start);
+                        slot.time_end = new Date(dayDate + ' ' + slot.time_end);
+
 
                         if (!slots.hasOwnProperty(slot.time_start.toString())) {
                             slots[slot.time_start.toString()] = [];
