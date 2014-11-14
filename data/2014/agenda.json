@@ -40,7 +40,7 @@
 			"name" : "Matthias Friedrich",
 			"plus_id" : "http://google.com/+MatthiasFriedrich",
 			"img" : "/images/speakers/matthiasfriedrich.png",
-			"description" : "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then i'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions . During these years, i also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
+			"description" : "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then I'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions. During these years, I also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
 		},
 		"janmonschke" : {
 			"name" : "Jan Monschke",
@@ -421,7 +421,7 @@
 					"time_start" : "12:00:00",
 					"time_end" : "12:45:00",
 					"title" : "Android as it gets worn",
-					"desc" : "One of Androids new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full fledged applications on your its small screens, that don't suck. These applications are highly depended on new APIs for inter device communication and some new ui widgets. This talk wants to give a introduction to Android Wear, its special APIs, features and latest developments.",
+					"desc" : "One of Android's new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full-fledged applications (that don't suck) on their small screens. These applications are highly dependent on new APIs for inter-device communication and some new UI widgets. This talk gives an introduction to Android Wear, its special APIs, features and latest developments.",
                     "level": "101",
 					"room_id" : "atrium",
 					"track" : "Android",
