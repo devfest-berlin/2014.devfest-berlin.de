@@ -72,8 +72,8 @@
             "img" : "/images/speakers/janphilippheinrich.jpg",
             "description" : ""
         },
-        "christianketterer" : {
-            "name" : "Christian Ketterer",
+        "cketti" : {
+            "name" : "cketti",
             "plus_id" : "110214177917096895451",
             "img" : "https://lh5.googleusercontent.com/-VWZOqf2XzyU/AAAAAAAAAAI/AAAAAAAAAIo/jrtEGsIfX5w/s200-c/photo.jpg",
             "description" : ""
@@ -198,7 +198,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -211,7 +211,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -224,7 +224,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -237,7 +237,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
