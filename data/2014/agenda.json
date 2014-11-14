@@ -155,6 +155,12 @@
             "plus_id" : "",
             "img" : "",
             "description" : "I am working as professional Software developer at Retresco where we build search based applications. While mostly writing code in Python I have a history in Java and keep on learning and enjoying Clojure recently. I hold a diploma in Economics and Computer Science and am a happy father of almost two."
+        },
+        "jonatanreiners" : {
+            "name" : "Jonatan Reiners",
+            "plus_id" : "113309632044141942701",
+            "img" : "https://pbs.twimg.com/profile_images/523442117205442561/Iyjs1EQu.jpeg",
+            "description" : "I am Software Developer at Priori Data, responsible for backend technologies working together with the data scientists on bringing their models to life. I love elegant solutions for complex problems. Always trying to convince my team to try awesome new stuff!"
         }
 	},
 	"days" : {
@@ -656,14 +662,14 @@
 				{
 					"time_start" : "15:00:00",
 					"time_end" : "15:45:00",
-					"title" : "(tba)",
-					"desc" : "",
-                    "level": "",
+					"title" : "DataScience with BigQuery.",
+					"desc" : "* Introduction in Company and the challenges inherent. * Why we choose BigQuery. * Data pipeline and tools. * Create queries and why it is important to understand how BigQuery works. * 2 Types of Models realized in BigQuery Moving to the caching layer * limitations of BigQuery * Utilize the data in our web application",
+                    "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "slide":"",
 					"speaker_ids" : [
-						
+						"jonatanreiners"
 					]
 				},
 				{
@@ -688,7 +694,7 @@
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
-					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram", "danieltruemper"
+					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram", "danieltruemper", "jonatanreiners"
 					]
 				},
                 {
