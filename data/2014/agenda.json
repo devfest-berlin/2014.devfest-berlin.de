@@ -634,24 +634,15 @@
 				{
 					"time_start" : "12:00:00",
 					"time_end" : "12:45:00",
-<<<<<<< HEAD
-					"title" : "Containers and Kubernetes",
-					"desc" : "In this session I will go over the history of containers at Google, what we have done internally, how containers differ from VM and what they are good for and what Kubernetes is. I will then show a quick demo of how to bring up a Kubernetes cluster on the Google Cloud Platform and how to deploy a simple service. I will also show the self healing mechanisms of Kubernetes.",
-=======
 					"title" : "Elasticsearch, Twitter and some news",
 					"desc" : "After a short introduction to Elasticsearch we will index Tweets that contain URLs to articles on news sites. With the help of retweets and the original tweet date we can create a hacker news style ranking of news. With some minor tweaking at index time we will be able to create views for todays \"top news\", top news per publisher and top users contributing to the site. With sharding, replication and time slicing I will discuss ES's scaling capabilities. Also recent discussions around it's consistency and dataloss will be mentioned shortly.",
->>>>>>> master
                     "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-<<<<<<< HEAD
-						"jenskuehlers"
-=======
 						"danieltruemper"
->>>>>>> master
 					]
 				},
 				{
@@ -703,11 +694,7 @@
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
-<<<<<<< HEAD
-					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram"
-=======
 					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram", "danieltruemper", "jonatanreiners"
->>>>>>> master
 					]
 				},
                 {
