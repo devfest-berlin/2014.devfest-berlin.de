@@ -40,7 +40,7 @@
 			"name" : "Matthias Friedrich",
 			"plus_id" : "http://google.com/+MatthiasFriedrich",
 			"img" : "/images/speakers/matthiasfriedrich.png",
-			"description" : "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then i'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions . During these years, i also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
+			"description" : "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then I'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions. During these years, I also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
 		},
 		"janmonschke" : {
 			"name" : "Jan Monschke",
@@ -72,8 +72,8 @@
             "img" : "/images/speakers/janphilippheinrich.jpg",
             "description" : ""
         },
-        "christianketterer" : {
-            "name" : "Christian Ketterer",
+        "cketti" : {
+            "name" : "cketti",
             "plus_id" : "110214177917096895451",
             "img" : "https://lh5.googleusercontent.com/-VWZOqf2XzyU/AAAAAAAAAAI/AAAAAAAAAIo/jrtEGsIfX5w/s200-c/photo.jpg",
             "description" : ""
@@ -129,7 +129,7 @@
         "astridparamitamochtarram" : {
             "name" : "Astrid Paramita Mochtarram",
             "plus_id" : "+AstridParamita",
-            "img" : "http://astridparamita.com/images/astrid.jpg",
+            "img" : "/images/speakers/astridparamitamochtarram.jpg",
             "description" : "Founder and CEO at twindly (http://twindly.com). M.Sc. in Digital Media, B.Eng in Informatics. AI/Recommender enthusiast, UX/UI designer. Traveller, storyteller, beauty addict, and food connoisseur."
         },
         "anitajaszewska" : {
@@ -149,6 +149,18 @@
             "plus_id" : "+ChristianBromann",
             "img" : "https://lh6.googleusercontent.com/-R7SieLBE1c0/AAAAAAAAAAI/AAAAAAAAAb4/WirDDg4FsjU/s120-c/photo.jpg",
             "description" : "We all know how sometimes frustrating it is when changing a small piece of CSS and accidentally creating visual bugs on one or more parts of our web application. There are several approaches to prevent this starting from writing highly modularised object orientated CSS (OOCSS) to running visual regression tests. In my presentation I would talk about how to write these visual regression tests and how to run them in a scaleable cloud environment using Sauce Labs and Applitools."
+        },
+        "danieltruemper" : {
+            "name" : "Daniel Trümper",
+            "plus_id" : "",
+            "img" : "",
+            "description" : "I am working as professional Software developer at Retresco where we build search based applications. While mostly writing code in Python I have a history in Java and keep on learning and enjoying Clojure recently. I hold a diploma in Economics and Computer Science and am a happy father of almost two."
+        },
+        "jonatanreiners" : {
+            "name" : "Jonatan Reiners",
+            "plus_id" : "113309632044141942701",
+            "img" : "https://pbs.twimg.com/profile_images/523442117205442561/Iyjs1EQu.jpeg",
+            "description" : "I am Software Developer at Priori Data, responsible for backend technologies working together with the data scientists on bringing their models to life. I love elegant solutions for complex problems. Always trying to convince my team to try awesome new stuff!"
         }
 	},
 	"days" : {
@@ -186,7 +198,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -199,7 +211,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -212,7 +224,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -225,7 +237,7 @@
                     "track" : "Android",
                     "slide":"",
                     "speaker_ids" : [
-                        "dirkjaeckel", "christianketterer"
+                        "dirkjaeckel", "cketti"
                     ]
                 },
                 {
@@ -409,7 +421,7 @@
 					"time_start" : "12:00:00",
 					"time_end" : "12:45:00",
 					"title" : "Android as it gets worn",
-					"desc" : "One of Androids new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full fledged applications on your its small screens, that don't suck. These applications are highly depended on new APIs for inter device communication and some new ui widgets. This talk wants to give a introduction to Android Wear, its special APIs, features and latest developments.",
+					"desc" : "One of Android's new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full-fledged applications (that don't suck) on their small screens. These applications are highly dependent on new APIs for inter-device communication and some new UI widgets. This talk gives an introduction to Android Wear, its special APIs, features and latest developments.",
                     "level": "101",
 					"room_id" : "atrium",
 					"track" : "Android",
@@ -622,15 +634,24 @@
 				{
 					"time_start" : "12:00:00",
 					"time_end" : "12:45:00",
+<<<<<<< HEAD
 					"title" : "Containers and Kubernetes",
 					"desc" : "In this session I will go over the history of containers at Google, what we have done internally, how containers differ from VM and what they are good for and what Kubernetes is. I will then show a quick demo of how to bring up a Kubernetes cluster on the Google Cloud Platform and how to deploy a simple service. I will also show the self healing mechanisms of Kubernetes.",
+=======
+					"title" : "Elasticsearch, Twitter and some news",
+					"desc" : "After a short introduction to Elasticsearch we will index Tweets that contain URLs to articles on news sites. With the help of retweets and the original tweet date we can create a hacker news style ranking of news. With some minor tweaking at index time we will be able to create views for todays \"top news\", top news per publisher and top users contributing to the site. With sharding, replication and time slicing I will discuss ES's scaling capabilities. Also recent discussions around it's consistency and dataloss will be mentioned shortly.",
+>>>>>>> master
                     "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
+<<<<<<< HEAD
 						"jenskuehlers"
+=======
+						"danieltruemper"
+>>>>>>> master
 					]
 				},
 				{
@@ -650,28 +671,28 @@
 				{
 					"time_start" : "15:00:00",
 					"time_end" : "15:45:00",
-					"title" : "(tba)",
-					"desc" : "",
-                    "level": "",
+					"title" : "DataScience with BigQuery.",
+					"desc" : "* Introduction in Company and the challenges inherent. * Why we choose BigQuery. * Data pipeline and tools. * Create queries and why it is important to understand how BigQuery works. * 2 Types of Models realized in BigQuery Moving to the caching layer * limitations of BigQuery * Utilize the data in our web application",
+                    "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "slide":"",
 					"speaker_ids" : [
-						
+						"jonatanreiners"
 					]
 				},
 				{
 					"time_start" : "16:30:00",
 					"time_end" : "17:15:00",
-					"title" : "(tba)",
-					"desc" : "",
-                    "level": "",
+					"title" : "Containers and Kubernetes",
+					"desc" : "In this session I will go over the history of containers at Google, what we have done internally, how containers differ from VM and what they are good for and what Kubernetes is. I will then show a quick demo of how to bring up a Kubernetes cluster on the Google Cloud Platform and how to deploy a simple service. I will also show the self healing mechanisms of Kubernetes.",
+                    "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						
+						"jenskuehlers"
 					]
 				},
 				{
@@ -682,7 +703,11 @@
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
+<<<<<<< HEAD
 					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram"
+=======
+					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram", "danieltruemper", "jonatanreiners"
+>>>>>>> master
 					]
 				},
                 {
