@@ -16,46 +16,81 @@
     </div>
 </div>
 <div class="overview">
-    <div class="col-md-4">
-        <h3>Workshops <small>{{dates.workshops | date:'EEEE, MMM d'}}</small></h3>
-        <p class="image">
-            <img src="../images/document_gear.png" alt="Workshop icon" class="img-circle" />
-        </p>
-        <p>
-            Learning something new is always good for a developer. In our workshops for different levels and topics you can learn a new language, a new framework or just become a better programmer.
-        </p>
-        <p>
-            Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
-        </p>
+    <div class="row">
+        
+        <div class="col-md-6 sm-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3>Tickets</h3>
+                </div>
+                <div class="panel-body">
+                    <p>Tickets are still on sale for a small fee.</p> 
+                    <p>We just want make sure you will show up. With 2.5 days of content, food and drinks throughout the whole day and a lot of suprises you can be sure you get your money's worth.</p>
+                    <a class="btn btn-primary" ng-href="{{cover.button.url}}" target="_blank">
+                        <span class="glyphicon glyphicon-qrcode" aria-hidden="true"> </span> 
+                        {{cover.button.text}}
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 sm-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3>Venue</h3>
+                </div>
+                <div class="panel-body">
+                    <p>After the big success of 2013 we are happy that - for the 2nd time in a row - <a href="http://developer.immobilienscout24.de/" target="_blank">ImmobilienScout24</a> is not only a sponsor but also our gratious host.</p>
+                    <p><strong>Immobilien Scout GmbH</strong>, Andreasstraße 10, 10243 Berlin</p>
+                    <a class="btn btn-info" href="http://goo.gl/n6AtXs" target="_blank">
+                        <span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span> 
+                         See on Google Maps
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-md-4">
-        <h3>Conference <small>{{dates.conference | date:'EEEE, MMM d'}}</small></h3>
-        <p class="image">
-            <img src="../images/speech_bubble.png" alt="Conference icon" class="img-circle" />
-        </p>
-        <p>
-            Today is the day. We ask the community for their talk proposals and we put together a program we are proud of.
-            We hope you find it interesting as well and join us for a full day of concentrated exchange of knowledge.
-        </p>
-        <p>
-            Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
-        </p>
-    </div>
-    <div class="col-md-4">
-        <h3>Hackathon  <small>{{dates.hackathon | date:'EEEE, MMM d'}}</small></h3>
-        <p class="image">
-            <img src="../images/hammer.png" alt="Hackathon icon" class="img-circle" />
-        </p>
-        <p>
-            Since you (hopefully) attended both workshops and talks you are now full of news ideas.
-            Today is the best day to put your new knowledge to work and start hacking with others.
-        </p>
-        <p>
-            You can pick up a new framework and give it a spin while competing over the coolest, performant or funniest solution.
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Workshops <small>{{dates.workshops | date:'EEEE, MMM d'}}</small></h3>
+            <p class="image">
+                <img src="../images/document_gear.png" alt="Workshop icon" class="img-circle" />
+            </p>
+            <p>
+                Learning something new is always good for a developer. In our workshops for different levels and topics you can learn a new language, a new framework or just become a better programmer.
+            </p>
+            <p>
+                Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h3>Conference <small>{{dates.conference | date:'EEEE, MMM d'}}</small></h3>
+            <p class="image">
+                <img src="../images/speech_bubble.png" alt="Conference icon" class="img-circle" />
+            </p>
+            <p>
+                Today is the day. We ask the community for their talk proposals and we put together a program we are proud of.
+                We hope you find it interesting as well and join us for a full day of concentrated exchange of knowledge.
+            </p>
+            <p>
+                Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h3>Hackathon  <small>{{dates.hackathon | date:'EEEE, MMM d'}}</small></h3>
+            <p class="image">
+                <img src="../images/hammer.png" alt="Hackathon icon" class="img-circle" />
+            </p>
+            <p>
+                Since you (hopefully) attended both workshops and talks you are now full of news ideas.
+                Today is the best day to put your new knowledge to work and start hacking with others.
+            </p>
+            <p>
+                You can pick up a new framework and give it a spin while competing over the coolest, performant or funniest solution.
 
-        </p>
-        <p>
-            Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
-        </p>
+            </p>
+            <p>
+                Please check the <a ng-href="#/{{year}}/agenda">Agenda</a> for more information.
+            </p>
+        </div>
     </div>
 </div>
