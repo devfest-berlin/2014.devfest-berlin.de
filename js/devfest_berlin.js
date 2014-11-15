@@ -4,7 +4,7 @@ var devfest = angular.module('devfest', ['ngRoute', 'ngSanitize', 'ui.bootstrap'
     .config(function ($routeProvider) {
         $routeProvider.
             when("/:year/about", {templateUrl: 'views/about.html', controller: "AboutControl"}).
-            when("/:year/code-of-conduct/:subpage?", {templateUrl: 'views/code-of-conduct.html', controller: "CodeOfConductController"}).
+            when("/:year/code-of-conduct/:subpage?", {title: 'Code of Conduct', templateUrl: 'views/code-of-conduct.html', controller: "CodeOfConductController"}).
             when("/:year/agenda", {templateUrl: 'views/agenda.html', controller: "AgendaControl"}).
             when("/:year/agenda/session/:sessionId", {templateUrl: 'views/session.html', controller: "SessionControl"}).
             when("/:year/speakers", {templateUrl: 'views/speaker_list.html', controller: "SpeakerListControl"}).
@@ -242,10 +242,6 @@ devfest.controller('MainControl', function ($scope, Config) {
     $scope.google_plus_event_link = 'https://plus.google.com/events/' + Config.years[$scope.year].google_plus_event_id;
     $scope.isCollapse = true;
     $scope.default_year = Config.default_year;
-
-    $scope.getPageTitle = function () {
-        return $scope.pageTitle ? $scope.pageTitle : "A weekend of awesome!";
-    }
 });
 
 devfest.controller('AboutControl', function ($scope, $http, $location, $routeParams, Config) {
@@ -254,7 +250,6 @@ devfest.controller('AboutControl', function ($scope, $http, $location, $routePar
     $scope.loading = true;
 
     $scope.$parent.year = year; //make sure the main controller knows about the year from the url
-    $scope.$parent.pageTitle = "A weekend of awesome!";
     $scope.$parent.activeTab = "about";
     $scope.cover = Config.years[year].cover;
     $scope.dates = Config.years[year].dates;
@@ -273,7 +268,6 @@ devfest.controller('CodeOfConductController', function ($scope, $http, $location
 
     var year = $routeParams.year;
     $scope.$parent.year = year; //make sure the main controller knows about the year from the url
-    $scope.$parent.pageTitle = "Code of Conduct";
     $scope.$parent.activeTab = "code-of-conduct";
     
     $scope.subpage = $routeParams.subpage;
