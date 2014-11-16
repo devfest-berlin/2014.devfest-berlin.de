@@ -161,6 +161,12 @@
             "plus_id" : "113309632044141942701",
             "img" : "https://pbs.twimg.com/profile_images/523442117205442561/Iyjs1EQu.jpeg",
             "description" : "I am Software Developer at Priori Data, responsible for backend technologies working together with the data scientists on bringing their models to life. I love elegant solutions for complex problems. Always trying to convince my team to try awesome new stuff!"
+        },
+        "ilhamabiyasasuhardi" : {
+            "name" : "Ilham Abiyasa Suhardi",
+            "plus_id" : "+IlhamAbiyasaSuhardi",
+            "img" : "https://lh5.googleusercontent.com/-kxORjxv9_bM/AAAAAAAAAAI/AAAAAAAAAQw/CmrGtHt9sk8/s120-c/photo.jpg",
+            "description" : "Co-founder & tech-wizard of twindly (http://twindly.com), full-stack JavaScript, indie game developer. Love travelling, food, and sketching."
         }
 	},
 	"days" : {
@@ -614,7 +620,7 @@
                     "youtube_id": "",
                     "slide":"",
 					"speaker_ids" : [
-						"astridparamitamochtarram"
+						"astridparamitamochtarram", "ilhamabiyasasuhardi"
 					]
 				},
 				{
