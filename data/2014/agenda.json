@@ -510,7 +510,7 @@
 					"track" : "Android",
                     "youtube_id":"",
 					"speaker_ids" : [
-                        "matthiasfriedrich", "melindaalbert", "sebatianopoggi", "danielebonaldo", "dannypreussler", "johannesorgis","benjaminweiss"
+						"benjaminweiss", "danielebonaldo", "dannypreussler", "johannesorgis", "matthiasfriedrich", "melindaalbert", "sebatianopoggi"
 					]
 				},
 				{
@@ -606,7 +606,7 @@
 					"track" : "Web",
                     "youtube_id": "",
 					"speaker_ids" : [
-                        "janmonschke", "tiffanyconroy", "janphilippheinrich", "anitajaszewska", "andreasschranzhofer", "christianbromann"
+						"andreasschranzhofer", "anitajaszewska", "christianbromann", "janmonschke", "janphilippheinrich", "tiffanyconroy"
 					]
 				},
 				{
@@ -700,7 +700,7 @@
 					"room_id" : "konfi45",
 					"track" : "Cloud",
 					"speaker_ids" : [
-					    "jenskuehlers", "alexandersurma", "leehambley", "astridparamitamochtarram", "danieltruemper", "jonatanreiners", "ilhamabiyasasuhardi"
+					    "alexandersurma", "astridparamitamochtarram", "danieltruemper", "ilhamabiyasasuhardi", "jenskuehlers", "jonatanreiners", "leehambley"
 					]
 				},
                 {
