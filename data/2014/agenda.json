@@ -148,7 +148,7 @@
             "name" : "Christian Bromann",
             "plus_id" : "+ChristianBromann",
             "img" : "https://lh6.googleusercontent.com/-R7SieLBE1c0/AAAAAAAAAAI/AAAAAAAAAb4/WirDDg4FsjU/s120-c/photo.jpg",
-            "description" : "We all know how sometimes frustrating it is when changing a small piece of CSS and accidentally creating visual bugs on one or more parts of our web application. There are several approaches to prevent this starting from writing highly modularised object orientated CSS (OOCSS) to running visual regression tests. In my presentation I would talk about how to write these visual regression tests and how to run them in a scaleable cloud environment using Sauce Labs and Applitools."
+            "description" : ""
         },
         "danieltruemper" : {
             "name" : "Daniel Trümper",
