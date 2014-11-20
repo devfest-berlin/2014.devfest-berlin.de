@@ -779,3 +779,7 @@ ul.photos.thumbnails {
 .label-big {
     font-size: 1em;
 }
+
+.with-newlines {
+    white-space: pre-wrap;
+}
