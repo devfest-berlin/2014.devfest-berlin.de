@@ -52,7 +52,7 @@
 			"name" : "Alexander Surma",
 			"plus_id" : "http://plus.google.com/+AlexanderSurma",
 			"img" : "/images/speakers/alexandersurma.jpg",
-			"description" : "Alexander \"surma\" Surma is a Software Engineer for nuboLAB and Co-Lead of the GDG Berlin Golang."
+			"description" : "Alexander \"surma\" Surma is a Software Engineer for nuboLAB, Co-Lead of the GDG Berlin Golang and a GDE for Go."
 		},
 		"jenskuehlers" : {
 			"name" : "Jens Kühlers",
@@ -626,13 +626,13 @@
 				{
 					"time_start" : "11:00:00",
 					"time_end" : "11:45:00",
-					"title" : "Something, something, Go!",
-					"desc" : "",
-                    "level": "101",
+					"title" : "Generics? Code Generation in Go",
+					"desc" : "Newcomers to the Go language often criticize the lack of generics. You will be shown how code generation with the appropriate tools can solve the underlying issue in a very Go-ish way. ",
+                    "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"http://go-talks.appspot.com/github.com/surma-slides/gocodegeneration/gocodegeneration.slide",
 					"speaker_ids" : [
 						"alexandersurma"
 					]
