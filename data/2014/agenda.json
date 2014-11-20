@@ -82,7 +82,7 @@
             "name" : "Melinda Albert",
             "plus_id" : "+MelindaAlbert",
             "img" : "https://lh4.googleusercontent.com/-cFePUG1gmsI/U4dqDRV4maI/AAAAAAAACKc/oR3dgYzUvoM/s749-no/ich.png",
-            "description" : "Melinda Albert is a mobile app designer based in Berlin and specialised in high end mobile concepts and designs for iOS & Android apps. Melinda has worked as a user experience designer for various large companies such as Telekom AG, Axel-Springer, Zalando, ImmobilienScout24 and the german public bank Sparkasse. She shares her professional knowledge about mobile usability through workshops, in-house seminars, talks and publications. http://www.melinda-albert.de http://de.linkedin.com/pub/melinda-albert/30/4b7/682/ https://www.xing.com/profile/Melinda_Albert"  
+            "description" : "Melinda Albert is a mobile app designer based in Berlin and specialised in high end mobile concepts and designs for iOS & Android apps. Melinda has worked as a user experience designer for various large companies such as Telekom AG, Axel-Springer, Zalando, ImmobilienScout24 and the german public bank Sparkasse. She shares her professional knowledge about mobile usability through workshops, in-house seminars, talks and publications.\n\nhttp://www.melinda-albert.de\nhttp://de.linkedin.com/pub/melinda-albert/30/4b7/682/\nhttps://www.xing.com/profile/Melinda_Albert"  
     	},
         "sebatianopoggi" : {
             "name" : "Sebastiano Poggi",
@@ -413,7 +413,7 @@
 					"time_start" : "11:00:00",
 					"time_end" : "11:45:00",
 					"title" : "How to make your Mobile App outstanding?",
-					"desc" : "You have an android app and have you also followed Guidelines. How can you make sure, that your app doesn´t look all the other android apps alike, which also followed the Guidelines? How can you make your app stand out visually more in the Playstore? Melinda Albert is going to explain you in 40 minutes how you could bring more delightful details in your user interface, make your product more memorable so that it attracts new customers.\n\nThese are some of the questions which are included and going to be answered during the session: What are delightful details and how can we cluster them? Are colors and icons enought to create a brand identity? How can we achieve a visually memorable product that user remember and love? ",
+					"desc" : "You have an Android app and have you also followed Guidelines. How can you make sure, that your app doesn´t look all the other Android apps alike, which also followed the Guidelines? How can you make your app stand out visually more in the Play Store? Melinda Albert is going to explain you in 40 minutes how you could bring more delightful details in your user interface, make your product more memorable so that it attracts new customers.\n\nThese are some of the questions which are included and going to be answered during the session: What are delightful details and how can we cluster them? Are colors and icons enought to create a brand identity? How can we achieve a visually memorable product that user remember and love?",
                     "level": "201",
 					"room_id" : "atrium",
 					"track" : "Android",
@@ -613,7 +613,7 @@
 					"time_start" : "10:00:00",
 					"time_end" : "10:45:00",
 					"title" : "Using Google Cloud Infrastructure for twindly: A Social Recommender Platform",
-					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it. What are the moving parts we get to play around with:\n- Hosting + compute: App Engine and Compute Engine - Storage: Cloud Datastore - Big Data: BigQuery - Prediction API Most importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
+					"desc" : "In this session, we will talk about our architecture goal and the steps we go through to approach and build it.\n\nWhat are the moving parts we get to play around with:\n- Hosting + compute: App Engine and Compute Engine\n- Storage: Cloud Datastore\n- Big Data: BigQuery\n- Prediction API\n\nMost importantly, lessons learned during the process of learning and breaking things, everthing is work in progress!",
                     "level": "101",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
@@ -669,7 +669,7 @@
 					"time_start" : "15:00:00",
 					"time_end" : "15:45:00",
 					"title" : "DataScience with BigQuery.",
-					"desc" : "* Introduction in Company and the challenges inherent. * Why we choose BigQuery. * Data pipeline and tools. * Create queries and why it is important to understand how BigQuery works. * 2 Types of Models realized in BigQuery Moving to the caching layer * limitations of BigQuery * Utilize the data in our web application",
+					"desc" : "* Introduction in Company and the challenges inherent\n* Why we choose BigQuery\n* Data pipeline and tools\n* Create queries and why it is important to understand how BigQuery works\n* 2 Types of Models realized in BigQuery Moving to the caching layer\n* limitations of BigQuery\n* Utilize the data in our web application",
                     "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
