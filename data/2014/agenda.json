@@ -84,7 +84,7 @@
             "img" : "https://lh4.googleusercontent.com/-cFePUG1gmsI/U4dqDRV4maI/AAAAAAAACKc/oR3dgYzUvoM/s749-no/ich.png",
             "description" : "Melinda Albert is a mobile app designer based in Berlin and specialised in high end mobile concepts and designs for iOS & Android apps. Melinda has worked as a user experience designer for various large companies such as Telekom AG, Axel-Springer, Zalando, ImmobilienScout24 and the german public bank Sparkasse. She shares her professional knowledge about mobile usability through workshops, in-house seminars, talks and publications.\n\nhttp://www.melinda-albert.de\nhttp://de.linkedin.com/pub/melinda-albert/30/4b7/682/\nhttps://www.xing.com/profile/Melinda_Albert"  
     	},
-        "sebatianopoggi" : {
+        "sebastianopoggi" : {
             "name" : "Sebastiano Poggi",
             "plus_id" : "+SebastianoPoggi",
             "img" : "https://lh4.googleusercontent.com/-uhZ-3UFgzzo/T4XR5D4VHiI/AAAAAAABBp4/PNiNGfhEHUs/w354-h352-no/Face_malga.jpg",
@@ -432,7 +432,7 @@
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide": "",
+                    "slide": "http://mtthsfrdrch.github.io/presentations/2014_11_GDG_DevFest_Berlin_AndroidWear/template.html",
 					"speaker_ids" : [
 						"matthiasfriedrich"
 					]
@@ -457,7 +457,7 @@
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"https://speakerdeck.com/danybony/aosp-building-blocks-devfest-berlin-2014",
 					"speaker_ids" : [
                         "danielebonaldo"
 					]
@@ -471,9 +471,9 @@
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"https://speakerdeck.com/rock3r/framing-the-canvas-november-2014",
 					"speaker_ids" : [
-						"sebatianopoggi"
+						"sebastianopoggi"
 					]
 				},
 				{
@@ -510,7 +510,7 @@
 					"track" : "Android",
                     "youtube_id":"",
 					"speaker_ids" : [
-						"benjaminweiss", "danielebonaldo", "dannypreussler", "johannesorgis", "matthiasfriedrich", "melindaalbert", "sebatianopoggi"
+						"benjaminweiss", "danielebonaldo", "dannypreussler", "johannesorgis", "matthiasfriedrich", "melindaalbert", "sebastianopoggi"
 					]
 				},
 				{
@@ -550,7 +550,7 @@
 					"room_id" : "casino",
 					"track" : "Web",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"https://speakerdeck.com/theophani/lions-and-tigers-and-handling-user-capabilities",
 					"speaker_ids" : [
 					   "tiffanyconroy"
 					]
@@ -618,7 +618,7 @@
 					"room_id" : "konfi45",
 					"track" : "Cloud",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"http://www.slideshare.net/astridparamita/using-google-cloud-infrastructure-for-twindly-at",
 					"speaker_ids" : [
 						"astridparamitamochtarram", "ilhamabiyasasuhardi"
 					]
