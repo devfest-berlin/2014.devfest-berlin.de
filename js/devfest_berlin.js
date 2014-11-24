@@ -79,7 +79,7 @@ devfest.factory('Config', function () {
                     button: {
                         text: 'Get your ticket NOW',
                         url: 'https://devfest-berlin.ticketbud.com/devfest-berlin-2014',
-                        disabled: false
+                        disabled: true
                     }
                 },
                 "team_ids": [ //must be Google+ profile ids
