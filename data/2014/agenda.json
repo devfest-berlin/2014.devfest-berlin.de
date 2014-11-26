@@ -578,7 +578,7 @@
 					"room_id" : "casino",
 					"track" : "Web",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"/data/2014/slides/DevFest_Berlin_2014_AppIndexing_Schranzhofer.pdf",
 					"speaker_ids" : [
 						"andreasschranzhofer"
 					]
