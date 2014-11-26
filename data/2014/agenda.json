@@ -496,7 +496,7 @@
 					"room_id" : "atrium",
 					"track" : "Android",
                     "youtube_id": "",
-                    "slide":"",
+                    "slide":"http://www.slideshare.net/dpreussler/more-android-code-puzzles",
 					"speaker_ids" : [
 						"dannypreussler","johannesorgis"
 					]
