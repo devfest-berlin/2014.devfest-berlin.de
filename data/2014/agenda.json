@@ -673,7 +673,7 @@
                     "level": "201",
 					"room_id" : "konfi45",
 					"track" : "Cloud",
-                    "slide":"",
+                    "slide":"/data/2014/slides/DevFest_Berlin_2014_DataScience_with_BigQuery.pdf",
 					"speaker_ids" : [
 						"jonatanreiners"
 					]
